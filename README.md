@@ -14,4 +14,6 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=khimnguynn&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+
 </div>
