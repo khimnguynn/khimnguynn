@@ -9,5 +9,5 @@
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=khimnguynn&style=flat-square&color=blue" alt=""/>
 </div>
